@@ -1,0 +1,17 @@
+{
+  "name": "t08_whoiswho",
+  "version": "1.0.0",
+  "description": "Small CSV reader with filtering",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MoonShine",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.5.1"
+  }
+}
